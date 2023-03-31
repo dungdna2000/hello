@@ -5,7 +5,7 @@ using namespace std;
 // Bob added this line
 int conflict()
 {
-	cout << "This is Bob version" << endl;
+	cout << "This is Bob version --- bob change this" << endl;
 }	
 
 int main(int)
